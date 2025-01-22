@@ -1,0 +1,5 @@
+Run runs the main java file
+
+prompts in the terminal, string formatting to insert into JSON,
+
+append JSON to JSON file. 
