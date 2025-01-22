@@ -1,3 +1,13 @@
 Cover Photos must be JPG, PNG, JPEG, jpg, jpeg, png. No other file types are supported for the book covers.
 
 The books are stored in books.json if edits must be made.
+
+To add finished edits to the website type:
+
+git add .
+
+git commit -m ""
+
+git push
+
+and your changes will be added to the website 
